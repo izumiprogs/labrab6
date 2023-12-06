@@ -1,0 +1,15 @@
+C:\Users\Ярослав\source\repos\Белозеров Ярослав 227_2\Белозеров Ярослав 227_2\bin\Debug\Белозеров Ярослав 227_2.exe.config
+C:\Users\Ярослав\source\repos\Белозеров Ярослав 227_2\Белозеров Ярослав 227_2\bin\Debug\Белозеров Ярослав 227_2.exe
+C:\Users\Ярослав\source\repos\Белозеров Ярослав 227_2\Белозеров Ярослав 227_2\bin\Debug\Белозеров Ярослав 227_2.pdb
+C:\Users\Ярослав\source\repos\Белозеров Ярослав 227_2\Белозеров Ярослав 227_2\obj\Debug\Белозеров Ярослав 227_2.csproj.AssemblyReference.cache
+C:\Users\Ярослав\source\repos\Белозеров Ярослав 227_2\Белозеров Ярослав 227_2\obj\Debug\MainWindow.g.cs
+C:\Users\Ярослав\source\repos\Белозеров Ярослав 227_2\Белозеров Ярослав 227_2\obj\Debug\App.g.cs
+C:\Users\Ярослав\source\repos\Белозеров Ярослав 227_2\Белозеров Ярослав 227_2\obj\Debug\Белозеров Ярослав 227_2_MarkupCompile.cache
+C:\Users\Ярослав\source\repos\Белозеров Ярослав 227_2\Белозеров Ярослав 227_2\obj\Debug\Белозеров Ярослав 227_2_MarkupCompile.lref
+C:\Users\Ярослав\source\repos\Белозеров Ярослав 227_2\Белозеров Ярослав 227_2\obj\Debug\MainWindow.baml
+C:\Users\Ярослав\source\repos\Белозеров Ярослав 227_2\Белозеров Ярослав 227_2\obj\Debug\Белозеров Ярослав 227_2.g.resources
+C:\Users\Ярослав\source\repos\Белозеров Ярослав 227_2\Белозеров Ярослав 227_2\obj\Debug\Белозеров_Ярослав_227_2.Properties.Resources.resources
+C:\Users\Ярослав\source\repos\Белозеров Ярослав 227_2\Белозеров Ярослав 227_2\obj\Debug\Белозеров Ярослав 227_2.csproj.GenerateResource.cache
+C:\Users\Ярослав\source\repos\Белозеров Ярослав 227_2\Белозеров Ярослав 227_2\obj\Debug\Белозеров Ярослав 227_2.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\source\repos\Белозеров Ярослав 227_2\Белозеров Ярослав 227_2\obj\Debug\Белозеров Ярослав 227_2.exe
+C:\Users\Ярослав\source\repos\Белозеров Ярослав 227_2\Белозеров Ярослав 227_2\obj\Debug\Белозеров Ярослав 227_2.pdb
